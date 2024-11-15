@@ -48,7 +48,7 @@ function App() {
             count is {count}
           </kemet-button>
           <p>
-            Edit <code>src/App.tsx</code> and save to test HMR
+            Reactbox is a integration demo for using Web Components in React 19 and higher.
           </p>
         </div>
       </section>
